@@ -1,0 +1,7 @@
+Shampun 45 30 1
+Pasta_zubna 28 75 2
+Kava 89 99 1
+Tsukor 24 50 3
+Maslo 67 20 2
+Hleb -5 10 1
+Ris 18 40 4
