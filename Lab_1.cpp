@@ -2,7 +2,6 @@
 #include "Logic.h"
 
 int main() {
-    readTovar();
+    showRoundedSum();
     return 0;
-};
-
+}
